@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kumar Basnet!</h1>
 
-<h3 align="center">Web developer skilled in HTML, CSS, JavaScript, TypeScript, React, and Next.Js. Always learning and eager to innovate.</h3>
+<h3 align="center">Web developer skilled in HTML, CSS, JavaScript, TypeScript, React, and Next.Js. Let’s connect and explore how we can innovate together.</h3>
 
 <h3 align="left">More About Me:</h3>
 
