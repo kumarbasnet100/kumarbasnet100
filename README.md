@@ -16,30 +16,6 @@
 - 📝 **[My Blog/Articles](https://www.kumar-basnet.com.np/)**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under a minute**
 
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/kumarbasnet100" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/kumarbasnet100" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/kumar-basnet" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://instagram.com/itz_koom_r" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://facebook.com/KooM.R.Xeetri" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://discord.com/users/koomr3279" target="_blank" rel="noreferrer noopener" title="Discord" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-</p>
-</div>
-
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
@@ -79,11 +55,35 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kumarbasnet100&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="kumarbasnet100's GitHub Stats" /></p>
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+<a href="https://github.com/kumarbasnet100" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://twitter.com/kumarbasnet100" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://linkedin.com/in/kumar-basnet" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://instagram.com/itz_koom_r" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://facebook.com/KooM.R.Xeetri" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://discord.com/users/koomr3279" target="_blank" rel="noreferrer noopener" title="Discord" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+</p>
+</div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbasnet100&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kumarbasnet100&show_icons=true&locale=en&theme=nightowl&count_private=true&hide_border=true" alt="kumarbasnet100's GitHub Stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=kumarbasnet100&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbasnet100&locale=en&theme=nightowl&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=kumarbasnet100&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarbasnet100&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/kumarbasnet100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/kumarbasnet100?logo=x&style=social" alt="Follow @kumarbasnet100 on Twitter" /></a>   <a href="https://github.com/sponsors/kumarbasnet100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @kumarbasnet100" /></a>
