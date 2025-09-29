@@ -18,40 +18,40 @@
 
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
+<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
 </p>
 </div>
 
@@ -60,22 +60,22 @@
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
 <a href="https://github.com/kumarbasnet100" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+  </a>&nbsp;
   <a href="https://twitter.com/kumarbasnet100" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/kumar-basnet" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/itz_koom_r" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+  </a>&nbsp;
   <a href="https://facebook.com/KooM.R.Xeetri" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+  </a>&nbsp;
   <a href="https://discord.com/users/koomr3279" target="_blank" rel="noreferrer noopener" title="Discord" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+  </a>&nbsp;
 </p>
 </div>
 
