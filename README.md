@@ -73,9 +73,7 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbasnet100&locale=en&theme=nightowl&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=kumarbasnet100&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbasnet100&locale=en&theme=nightowl&layout=compact&hide_border=true" alt="Top Languages" /><img src="https://streak-stats.demolab.com/?user=kumarbasnet100&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarbasnet100&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/kumarbasnet100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/kumarbasnet100?logo=x&style=social" alt="Follow @kumarbasnet100 on Twitter" /></a>   <a href="https://github.com/sponsors/kumarbasnet100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @kumarbasnet100" /></a>
