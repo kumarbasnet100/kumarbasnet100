@@ -35,22 +35,13 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />&nbsp;
 </p>
 </div>
 
@@ -72,7 +63,12 @@
 </p>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbasnet100&locale=en&theme=nightowl&layout=compact&hide_border=true" alt="Top Languages" /> &nbsp; <img src="https://streak-stats.demolab.com/?user=kumarbasnet100&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" />
+<p></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarbasnet100" alt="kumarbasnet" /></a> </p>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbasnet100&locale=en&theme=nightowl&layout=compact&hide_border=true" alt="Top Languages" /> &nbsp; <img src="https://streak-stats.demolab.com/?user=kumarbasnet100&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarbasnet100&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/kumarbasnet100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/kumarbasnet100?logo=x&style=social" alt="Follow @kumarbasnet100 on Twitter" /></a>   <a href="https://github.com/sponsors/kumarbasnet100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @kumarbasnet100" /></a>
