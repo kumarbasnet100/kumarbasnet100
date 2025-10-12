@@ -14,7 +14,8 @@
 - 📫 How to reach me: [basnetkumar2059@gmail.com](mailto:basnetkumar2059@gmail.com)
 - 👨‍💻 **[My Portfolio](https://www.kumar-basnet.com.np/)**
 - 📝 **[My Blog/Articles](https://www.kumar-basnet.com.np/)**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute**
+- ⚡ Fun fact: Are you free tonight?
+Sorry, I’m stuck in an infinite loop. 😅
 
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
