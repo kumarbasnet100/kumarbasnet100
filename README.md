@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kumarbasnet100/kumarbasnet100/blob/main/New intro cover.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/kumarbasnet100/kumarbasnet100/blob/main/Teal and Black Modern Programmer New LinkedIn Banner.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumar Basnet!</h1>
