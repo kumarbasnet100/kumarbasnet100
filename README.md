@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kumar Basnet!</h1>
 
-<h3 align="center">Web developer & QA Engineer skilled JavaScript, TypeScript, React, Next.Js, Postman and Selenium.<br> Let’s connect and explore how we can innovate together.</h3>
+<h3 align="center">Web developer & QA Engineer skilled JavaScript, TypeScript, React, Next.Js, Postman and Playwright.<br> Let’s connect and explore how we can innovate together.</h3>
 
 <h3 align="left">More About Me:</h3>
 
@@ -42,7 +42,7 @@ Sorry, I’m stuck in an infinite loop. 😅
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-%23BFBFBF.svg?style=plastic&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%23FFD700.svg?style=plastic&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%23000000.svg?style=plastic&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-%23E33332.svg?style=plastic&logo=testing-library&logoColor=white)
